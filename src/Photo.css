@@ -1,0 +1,11 @@
+.photo{
+    width: 350px;
+}
+
+.photoDiv{
+    margin: 10px;
+    border: 1px solid purple;
+    padding: 10px;
+    border-radius: 5px;
+
+}

@@ -1,0 +1,23 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.appButton{
+    width:45%;
+    background-color: purple;
+    color: palevioletred;
+    padding: 15px;
+    font-size: 20px;
+    border: radius 10px;
+    border:1px solid palevioletred;
+}
+
+.photoList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
